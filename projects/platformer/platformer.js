@@ -51,6 +51,7 @@ createPlatform(300,430,100,10)
 createPlatform(150,300,100,10)
 createPlatform(150,200,10,100)
 createPlatform(350,200,10,10)
+createPlatform(700,200,100,10)
 
     
     // TODO 2
