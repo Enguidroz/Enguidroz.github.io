@@ -61,6 +61,8 @@ createPlatform(700,200,100,10)
     // example usage: createCollectable(type, x, y, gravity, bounce)
 
 createCollectable('database',10,10,0,0)
+createCollectable('database',350,380,0,0)
+createCollectable('database',530,130,0,0)
 
 
     // TODO 3
@@ -71,6 +73,7 @@ createCollectable('database',10,10,0,0)
 
 createCannon('right',500,10000,30,650)
 createCannon('top',615,600,30,30)
+createCannon('top',1300,10,10,100)
 
     /////////////////////////////////////////////////
     //////////ONLY CHANGE ABOVE THIS POINT///////////
